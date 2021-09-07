@@ -22,3 +22,7 @@ Each sample is also annotated according to the following cases:
 
 <species_code>_<case>
 
+
+### Links
+
+Raw data audio libraries [link](https://drive.google.com/drive/folders/1-aZqiwX436IfPnYRl6mTpX5sW2JFWhlC?usp=sharing)
