@@ -1,6 +1,13 @@
-# Manage manual annotations of FNJV recordings
+# Soundclim manual annotations
 
-Keep track of manual annotations performed on the FNJV recordings. Annotations are performed using Audacity and the following standards:
+There are two main types of annotations: presence-absence and bounding boxes. 
+
+## Presence-absence
+Presence-absence are annotations at a global scale, indicating the presence or absence of a species in a 60 s audio recording. This is the main target that needs to be automated, and hence is the final test.
+
+## Bounding boxes
+
+Bounding boxes are annotations at a finer scale, in time and frequency. Annotations are performed using Audacity and the following standards:
 
 - Samples are heard and visually analyzed with a spectrogram
 - Distorted signals (clipped or distorted by the microphone) are not annotated.
