@@ -1,6 +1,6 @@
 # Soundclim manual annotations
 
-There are two main types of annotations: presence-absence and bounding boxes. 
+There are two main types of annotations: presence-absence and bounding boxes.
 
 ## Presence-absence
 Presence-absence are annotations at a global scale, indicating the presence or absence of a species in a 60 s audio recording. This is the main target that needs to be automated, and hence is the final test.
@@ -31,5 +31,7 @@ Each sample is also annotated according to the following cases:
 
 
 ### Links
+
+Detailed document GDrive [link](https://docs.google.com/document/d/1wz_B2mZFgrGbCHzPcAOZLDFaE0e76rv6Gc8V_JEYyCg/edit)
 
 Raw data audio libraries [link](https://drive.google.com/drive/folders/1-aZqiwX436IfPnYRl6mTpX5sW2JFWhlC?usp=sharing)
