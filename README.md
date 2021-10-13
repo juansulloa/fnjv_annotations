@@ -34,4 +34,6 @@ Each sample is also annotated according to the following cases:
 
 Detailed document GDrive [link](https://docs.google.com/document/d/1wz_B2mZFgrGbCHzPcAOZLDFaE0e76rv6Gc8V_JEYyCg/edit)
 
+Spreadsheet w/ info about species/libraries [link](https://docs.google.com/spreadsheets/d/1F6AXYNF79QpDCbcFUuTHXH0IqtbpGzYtwebtIUq3xuY/edit#gid=0)
+
 Raw data audio libraries [link](https://drive.google.com/drive/folders/1-aZqiwX436IfPnYRl6mTpX5sW2JFWhlC?usp=sharing)
