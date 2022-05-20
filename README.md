@@ -1,6 +1,13 @@
-# Manage manual annotations of FNJV recordings
+# Soundclim manual annotations
 
-Keep track of manual annotations performed on the FNJV recordings. Annotations are performed using Audacity and the following standards:
+There are two main types of annotations: presence-absence and bounding boxes.
+
+## Presence-absence
+Presence-absence are annotations at a global scale, indicating the presence or absence of a species in a 60 s audio recording. This is the main target that needs to be automated, and hence is the final test.
+
+## Bounding boxes
+
+Bounding boxes are annotations at a finer scale, in time and frequency. Annotations are performed using Audacity and the following standards:
 
 - Samples are heard and visually analyzed with a spectrogram
 - Distorted signals (clipped or distorted by the microphone) are not annotated.
@@ -22,3 +29,11 @@ Each sample is also annotated according to the following cases:
 
 <species_code>_<case>
 
+
+### Links
+
+Detailed document GDrive [link](https://docs.google.com/document/d/1wz_B2mZFgrGbCHzPcAOZLDFaE0e76rv6Gc8V_JEYyCg/edit)
+
+Spreadsheet w/ info about species/libraries [link](https://docs.google.com/spreadsheets/d/1F6AXYNF79QpDCbcFUuTHXH0IqtbpGzYtwebtIUq3xuY/edit#gid=0)
+
+Raw data audio libraries [link](https://drive.google.com/drive/folders/1-aZqiwX436IfPnYRl6mTpX5sW2JFWhlC?usp=sharing)
