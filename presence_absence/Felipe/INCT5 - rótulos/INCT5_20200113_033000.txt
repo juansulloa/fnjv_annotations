@@ -1,0 +1,3 @@
+46.748378	46.941199	Sci_imb
+48.672303	48.929398	Sci_imb
+52.434455	53.771347	Sci_hay - canto diferente

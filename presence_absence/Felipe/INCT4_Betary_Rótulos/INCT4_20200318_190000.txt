@@ -1,0 +1,5 @@
+2.305571	6.060357	Rhinella ornata
+17.588210	21.024609	Rhinella ornata
+29.313684	32.783019	Rhinella ornata
+37.899190	42.521310	Rhinella ornata
+50.502976	53.533155	Rhinella ornata
