@@ -1,0 +1,7 @@
+2.992860	3.223080	Phyllomedusa distincta
+7.487631	9.236207	Sem ID
+25.395458	26.908332	Sem ID
+32.625462	32.793331	Phyllomedusa distincta
+35.656692	37.449119	Sem ID
+41.094269	41.362859	Phyllomedusa distincta
+51.881720	52.079052	Phyllomedusa distincta

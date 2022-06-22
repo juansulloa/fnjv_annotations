@@ -1,0 +1,12 @@
+0.345729	1.013770	Lithobates catesbeianus
+\	255.854431	534.968323
+1.334706	2.155639	Lithobates catesbeianus
+\	-1.000000	232.594940
+2.426988	3.297508	Lithobates catesbeianus
+\	-1.000000	139.556961
+3.814035	4.661139	Lithobates catesbeianus
+\	-1.000000	139.556961
+4.995849	5.873256	Lithobates catesbeianus
+\	-1.000000	302.373413
+6.409067	7.194188	Lithobates catesbeianus
+\	348.892395	395.411407
