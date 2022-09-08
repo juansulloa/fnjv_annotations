@@ -27,7 +27,61 @@ Each sample is also annotated according to the following cases:
 - Distant call (FAR)
 
 
-<species_code>_<case>
+### Site codes and researcher names
+
+
+|Site code| Researcher name        |
+|---------|------------------------|
+| INCT1   | José Perez Pombal jr.  |
+| INCT2   | José Perez Pombal jr.  |
+| INCT3   | José Perez Pombal jr.  |
+| INCT4   | Luis Felipe Toledo     |
+| INCT5   | Luis Felipe Toledo     |
+| INCT6   | Luis Felipe Toledo     |
+| INCT7   | Rodrigo Lingnau        |
+| INCT8   | Rodrigo Lingnau        |
+| INCT9   | Rodrigo Lingnau        |
+| INCT10  | Selvino Neckel de Oliveira |
+| INCT11  | Selvino Neckel de Oliveira |
+| INCT12  | Selvino Neckel de Oliveira |
+| INCT13  | Leandro Juen           |
+| INCT14  | Leandro Juen           |
+| INCT15  | Leandro Juen           |
+| INCT16  | Franco Leandro de Souza |
+| INCT17  | Franco Leandro de Souza |
+| INCT18  | Franco Leandro de Souza |
+| INCT19  | Wilian Vaz Silva.      |
+| INCT20  | Wilian Vaz Silva.     |
+| INCT21  | Wilian Vaz Silva.      |
+| INCT22  | Alessandro Ribeiro de Morais |
+| INCT23  | Alessandro Ribeiro de Morais |
+| INCT24  | Alessandro Ribeiro de Morais |
+| INCT25  | Luciana Barreto Nascimento |
+| INCT26  | Luciana Barreto Nascimento |
+| INCT27  | Luciana Barreto Nascimento |
+| INCT28  | Paulo Garcia          |
+| INCT29  | Paulo Garcia          |
+| INCT30  | Paulo Garcia          |
+| INCT31  | Rodrigo Barbosa Ferreira |
+| INCT32  | Moacir Santos Tinoco. |
+| INCT33  | Geraldo Jorge Barbosa de Moura |
+| INCT34  | Mirco Solé            |
+| INCT35  | Mirco Solé            |
+| INCT36  | Mirco Solé            |
+| INCT37  | Natan Medeiros Maciel |
+| INCT38  | Natan Medeiros Maciel |
+| INCT39  | Natan Medeiros Maciel |
+| INCT40  | Rogério P. Bastos     |
+| INCT41  | Rogério P. Bastos     |
+| INCT42  | Rogério P. Bastos     |
+| INCT43  | Fausto Nomura         |
+| INCT44  | Fausto Nomura         |
+| INCT45  | Fausto Nomura         |
+| INCT46  | Rogério P. Bastos/Diego |
+| INCT47  | Rogério P. Bastos/Diego |
+| INCT48  | Rogério P. Bastos/Diego |
+
+
 
 
 ### Links
