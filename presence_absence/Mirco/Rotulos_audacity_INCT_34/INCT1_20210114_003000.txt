@@ -1,0 +1,7 @@
+1.354261	1.768063	Sphaeno prasinus 
+7.498594	7.962554	Sphaeno prasinus 
+17.141435	17.592855	Sphaeno prasinus 
+18.972195	19.461234	Sphaeno prasinus 
+38.508666	38.997705	Sphaeno prasinus 
+54.596787	55.110905	Sphaeno prasinus 
+55.925969	56.389929	Sphaeno prasinus 

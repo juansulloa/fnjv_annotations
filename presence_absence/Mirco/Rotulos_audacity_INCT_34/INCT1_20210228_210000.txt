@@ -1,0 +1,11 @@
+0.043888	0.313486	sem_id
+1.047044	1.329182	sem_id
+27.511564	27.950445	Boana albomarginata 
+31.843946	32.094735	Phyllomedusa burmeisteri 
+36.909886	37.348767	Boana albomarginata 
+37.436543	37.913042	Boana albomarginata 
+46.408523	47.323903	Boana albomarginata 
+47.562153	49.280058	Boana albomarginata 
+50.847490	51.292641	Boana albomarginata 
+51.762870	52.051278	Sphaeno prasinus 
+55.361694	55.857002	Boana albomarginata 

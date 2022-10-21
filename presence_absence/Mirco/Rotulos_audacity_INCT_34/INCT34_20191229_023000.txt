@@ -1,0 +1,4 @@
+10.514333	11.141306	Phyllomedusa burmeisteri 
+12.037877	12.219699	Phyllomedusa burmeisteri 
+23.285768	23.473860	Phyllomedusa burmeisteri 
+23.730919	23.912741	Phyllomedusa burmeisteri 

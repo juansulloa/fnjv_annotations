@@ -1,0 +1,5 @@
+5.717991	5.981320	Dendropsophus sp.
+10.771392	11.109957	Dendropsophus sp.
+14.658623	15.059885	Phyllomedusa burmeisteri 
+19.624247	19.912655	Dendropsophus sp.
+47.198509	47.612311	Phyllomedusa burmeisteri 

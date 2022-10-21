@@ -1,0 +1,4 @@
+18.997274	19.348379	Dendropsophus sp.
+19.448695	19.887576	Dendropsophus sp.
+23.962899	24.238767	Dendropsophus sp.
+24.614950	24.940976	Dendropsophus sp.

@@ -1,0 +1,8 @@
+4.119211	4.840230	Phyllomedusa burmeisteri 
+8.188264	8.915553	Sphaeno prasinus 
+17.348336	17.737059	Sphaeno prasinus 
+20.915811	21.285725	Boana atlantica
+28.138537	28.552339	Sphaeno prasinus 
+50.433688	50.891378	
+57.023172	57.355467	Sphaeno prasinus 
+58.552985	58.960518	Boana atlantica

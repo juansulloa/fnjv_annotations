@@ -1,0 +1,12 @@
+1.567432	2.921693	Dendropsophus aff. oliveirai 
+8.827776	9.931248	Dendropsophus aff. oliveirai 
+11.762009	12.388982	Phyllomedusa burmeisteri 
+14.558307	15.837332	Dendropsophus aff. oliveirai 
+20.451851	21.743415	Dendropsophus aff. oliveirai 
+25.542870	26.834434	Dendropsophus aff. oliveirai 
+26.006830	26.520947	Phyllomedusa burmeisteri 
+27.348551	27.774893	Phyllomedusa burmeisteri 
+30.320402	31.800058	Dendropsophus aff. oliveirai 
+35.561894	36.740603	Dendropsophus aff. oliveirai 
+51.298911	52.740948	Dendropsophus aff. oliveirai 
+56.502784	57.756730	Dendropsophus aff. oliveirai 

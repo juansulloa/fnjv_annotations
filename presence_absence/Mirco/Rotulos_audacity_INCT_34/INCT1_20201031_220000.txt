@@ -1,0 +1,6 @@
+7.649068	8.138106	Sphaeno prasinus 
+13.893716	14.420373	Sphaeno prasinus 
+17.680632	18.044276	Dendropsophus elegans 
+31.749900	32.727978	Dendropsophus anceps 
+37.041550	37.518049	Phyllomedusa burmeisteri 
+51.925883	52.389843	Boana albomarginata 

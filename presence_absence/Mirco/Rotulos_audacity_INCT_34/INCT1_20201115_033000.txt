@@ -1,0 +1,6 @@
+4.213257	4.526743	Boana pombali 
+4.940545	5.241492	Sphaeno prasinus 
+7.787002	8.238422	Sphaeno prasinus 
+17.906342	18.182210	Boana pombali 
+31.448953	31.925452	Boana albomarginata 
+35.398882	35.875381	Boana albomarginata 

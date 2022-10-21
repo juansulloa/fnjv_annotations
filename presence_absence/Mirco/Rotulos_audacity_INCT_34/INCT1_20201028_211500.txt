@@ -1,0 +1,7 @@
+1.655208	2.319799	Boana albomarginata 
+28.176155	28.727891	Boana albomarginata 
+31.699742	32.101005	Phyllomedusa burmeisteri 
+49.129585	49.731479	Phyllomedusa burmeisteri 
+50.408609	51.750331	Dendropsophus anceps 
+55.048208	55.524707	Boana albomarginata 
+58.446400	59.662727	Dendropsophus anceps 

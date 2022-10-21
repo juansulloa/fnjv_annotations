@@ -1,0 +1,5 @@
+37.869154	38.433430	Sphaeno prasinus 
+42.283042	42.721923	Sphaeno prasinus 
+43.073028	43.574606	Sphaeno prasinus 
+43.900632	44.339513	Sphaeno prasinus 
+50.207978	50.722096	Boana atlantica

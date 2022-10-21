@@ -1,0 +1,3 @@
+9.667920	10.081722	Boana atlantica
+25.906514	26.420632	Boana atlantica
+46.446141	46.960259	Boana atlantica

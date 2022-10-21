@@ -1,0 +1,5 @@
+5.153716	5.517360	Phyllomedusa burmeisteri 
+16.577160	16.915725	Sphaeno prasinus 
+19.611708	20.000431	Sphaeno prasinus 
+39.888006	40.239111	Boana albomarginata 
+41.254807	41.756385	Boana albomarginata 

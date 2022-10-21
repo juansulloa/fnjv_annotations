@@ -1,0 +1,6 @@
+9.467289	10.106801	Boana pombali 
+34.633975	34.872224	Boana pombali 
+47.411679	47.787863	Sphaeno prasinus 
+49.718939	50.032426	Boana pombali 
+54.095209	54.496472	Sphaeno prasinus 
+55.449470	55.687720	Boana pombali 

@@ -1,0 +1,7 @@
+1.122281	1.492195	sem_id
+6.326155	6.583214	sem_id
+9.323085	9.611492	sem_id
+12.351363	12.658580	sem_id
+29.768666	30.094692	Boana albomarginata 
+37.348767	37.737490	Boana albomarginata 
+57.932282	58.295926	Boana albomarginata 

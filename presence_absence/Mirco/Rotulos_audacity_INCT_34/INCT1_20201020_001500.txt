@@ -1,0 +1,4 @@
+3.887231	4.627059	Phyllomedusa burmeisteri 
+13.367059	13.655467	Dendropsophus sp.
+19.248063	19.599168	Dendropsophus sp.
+20.639943	21.028666	Dendropsophus sp.

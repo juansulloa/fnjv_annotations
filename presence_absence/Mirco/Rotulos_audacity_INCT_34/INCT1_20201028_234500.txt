@@ -1,0 +1,5 @@
+8.959441	9.335624	Sphaeno prasinus 
+21.850000	22.282612	Sphaeno prasinus 
+55.562325	55.894621	Phyllomedusa burmeisteri 
+58.922899	59.311622	Phyllomedusa burmeisteri 
+59.311622	59.612569	Sphaeno prasinus 

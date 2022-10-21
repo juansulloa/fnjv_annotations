@@ -1,0 +1,5 @@
+4.351191	4.877848	Dendropsophus sp.
+34.659054	35.273487	Phyllomedusa burmeisteri 
+35.900460	36.289183	Dendropsophus sp.
+42.884936	43.386514	Dendropsophus sp.
+49.806715	50.333372	Phyllomedusa burmeisteri 

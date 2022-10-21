@@ -1,0 +1,5 @@
+10.319971	10.746313	Boana atlantica
+10.620918	11.097418	Dendropsophus elegans 
+32.840833	33.329871	Boana atlantica
+49.392913	49.744018	Sphaeno prasinus 
+54.371077	54.835037	Boana atlantica

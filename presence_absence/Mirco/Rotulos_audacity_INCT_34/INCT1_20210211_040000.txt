@@ -1,0 +1,6 @@
+11.511220	12.000258	Sphaeno prasinus 
+19.793530	20.502009	Boana albomarginata 
+40.815926	41.536945	Boana albomarginata 
+45.129499	45.656156	Sphaeno prasinus 
+51.349068	52.145324	Boana albomarginata 
+54.659484	54.922813	Sphaeno prasinus 

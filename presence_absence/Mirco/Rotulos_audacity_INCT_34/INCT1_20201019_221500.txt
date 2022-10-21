@@ -1,0 +1,7 @@
+5.178795	5.805768	Phyllomedusa burmeisteri 
+6.018938	6.871621	Phyllomedusa burmeisteri_canto_2
+45.129499	45.668695	Phyllomedusa burmeisteri 
+46.032339	46.935180	Phyllomedusa burmeisteri_canto_2 
+46.935180	47.336443	Phyllomedusa burmeisteri 
+53.869499	54.922813	Phyllomedusa burmeisteri_canto_2
+58.308466	58.810044	Phyllomedusa burmeisteri 

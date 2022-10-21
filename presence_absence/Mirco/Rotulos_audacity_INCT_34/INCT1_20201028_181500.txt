@@ -1,0 +1,4 @@
+0.000000	3.937389	Stereocyclops incrassatus
+12.263587	21.730876	Stereocyclops incrassatus
+30.182468	36.527432	Stereocyclops incrassatus
+45.681235	54.070130	Stereocyclops incrassatus

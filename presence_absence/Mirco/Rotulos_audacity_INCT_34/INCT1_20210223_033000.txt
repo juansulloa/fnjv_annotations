@@ -1,0 +1,4 @@
+10.470445	10.896786	Sphaeno prasinus 
+13.141349	13.630388	Sphaeno prasinus 
+14.871794	15.348293	Phyllomedusa burmeisteri 
+43.236041	43.624764	Phyllomedusa burmeisteri 

@@ -1,0 +1,4 @@
+0.288407	0.626973	Sphaeno prasinus 
+1.504735	1.830760	Dendropsophus sp.
+24.125911	24.652569	Sphaeno prasinus 
+35.235869	35.549355	Dendropsophus sp.

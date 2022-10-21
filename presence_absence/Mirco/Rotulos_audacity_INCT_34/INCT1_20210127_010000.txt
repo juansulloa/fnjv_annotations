@@ -1,0 +1,4 @@
+13.492454	13.994032	Sphaeno prasinus 
+45.580919	46.095037	Sphaeno prasinus 
+47.687547	48.138968	Sphaeno prasinus 
+57.242612	57.656414	Sphaeno prasinus 

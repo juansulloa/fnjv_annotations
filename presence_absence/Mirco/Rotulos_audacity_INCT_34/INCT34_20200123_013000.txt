@@ -1,0 +1,5 @@
+0.075237	0.476499	Sphaeno prasinus 
+1.178709	1.605050	Dendropsophus sp.
+48.126428	48.464994	Phyllomedusa burmeisteri 
+49.919570	50.283215	Phyllomedusa burmeisteri 
+57.054520	57.418165	Phyllomedusa burmeisteri 

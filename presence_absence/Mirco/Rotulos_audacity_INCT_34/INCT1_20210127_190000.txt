@@ -1,0 +1,25 @@
+3.310416	3.786915	Dendropsophus elegans 
+3.962468	4.363730	Phyllomedusa burmeisteri 
+4.877848	5.254032	Boana pombali 
+8.125567	8.426514	Boana pombali 
+9.655380	10.081722	Phyllomedusa burmeisteri 
+10.859168	11.310588	Dendropsophus elegans 
+12.326284	12.840402	Boana atlantica
+14.056729	14.407834	Boana pombali 
+16.614778	16.978422	Phyllomedusa burmeisteri 
+17.166514	17.768408	Dendropsophus elegans 
+18.972195	19.586629	Dendropsophus elegans 
+20.238680	20.815495	Boana atlantica
+22.031822	22.483243	sem_id
+26.947289	27.486485	Dendropsophus elegans 
+29.705969	30.195008	Boana atlantica
+31.662124	32.176242	Dendropsophus elegans 
+34.408265	34.847146	Boana pombali 
+37.116787	37.568207	Dendropsophus elegans 
+37.505510	38.019628	Dendropsophus elegans 
+38.445969	38.897389	sem_id
+39.148179	39.599599	sem_id
+44.000948	44.515065	Boana atlantica
+48.439915	48.791019	Phyllomedusa burmeisteri 
+49.292598	49.756558	Dendropsophus elegans 
+53.267605	53.781723	Dendropsophus elegans 

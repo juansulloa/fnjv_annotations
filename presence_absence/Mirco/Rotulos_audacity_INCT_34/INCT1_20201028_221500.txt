@@ -1,0 +1,6 @@
+13.730703	14.194663	Boana albomarginata 
+19.699484	20.238680	Boana albomarginata 
+29.455180	29.906600	Boana albomarginata 
+44.051105	44.452368	Boana albomarginata 
+46.446141	47.148351	Boana albomarginata 
+52.991737	54.258222	Dendropsophus anceps 
